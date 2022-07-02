@@ -9,8 +9,7 @@ CSV file is generate with collected data.
 - [html package](https://pkg.go.dev/golang.org/x/net/html)
 - [htmlquery](https://github.com/antchfx/htmlquery)
 
-## Run using brew
-
+## Run
 ```brew install chrome driver ``` (not needed if you alredy have chrome driver)
 
 ```java -jar selenium-server-standalone.jar```
